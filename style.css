@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+
+
+
+input {
+    background: grey;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.announcement {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 17px
+}
+
+#youtube iframe {
+    width: 100%;
+}
+
+#map {
+    float: left;
+}
+
